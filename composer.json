@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-medialibrary",
+    "name": "nielspeen/laravel-medialibrary",
     "description": "Associate files with Eloquent models",
     "keywords": [
         "spatie",
@@ -11,7 +11,7 @@
         "cms",
         "laravel"
     ],
-    "homepage": "https://github.com/spatie/laravel-medialibrary",
+    "homepage": "https://github.com/nielspeen/laravel-medialibrary",
     "license": "MIT",
     "authors": [
         {
